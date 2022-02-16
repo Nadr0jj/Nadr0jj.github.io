@@ -1,14 +1,8 @@
 # main links links
 main:
 
-  - title: "Data Exploration (Notebooks)"
-    url: /data%20exploration/
-    
-  - title: "Software"
-    url: /software/
-    
-  - title: "Papers"
-    url: /papers/
+  - title: "Portfolio"
+    url: /Portfolio/
             
   - title: "Resume"
     url: /resume/

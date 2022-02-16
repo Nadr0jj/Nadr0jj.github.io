@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+`  `
 
 I am a graduate student at the **University of Washington, Seattle** where I am earning my **MSc** in **Data Science**. I previously earned my **BS** in **Mathematics and Scientific Computation** from the **University of California, Davis**. 
 

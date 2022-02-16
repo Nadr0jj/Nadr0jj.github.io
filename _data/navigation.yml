@@ -3,8 +3,11 @@ main:
   - title: "Papers"
     url: /papers/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Software"
+    url: /software/
+    
+  - title: "Data Exploration (Notebooks)"
+    url: /data%20exploration/
             
   - title: "CV"
     url: /cv/

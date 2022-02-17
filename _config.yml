@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jordan Fields"
   avatar           : "profile.png"
-  bio              : "I am a Data Scientist and software developer based in the Seattle area. I am passionate about using statistical approaches to drive insight and fairness in ML contexts. "
+  bio              : "I am a Data Scientist and software developer based in the Seattle area."
   location         : "Seattle"
   employer         :
   pubmed           :

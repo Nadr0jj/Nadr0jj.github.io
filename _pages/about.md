@@ -14,4 +14,4 @@ My work experience includes developing **data visualization software** for **Rus
 
 I am passionate about using statistical approaches to drive insights, fairness in ML contexts, and writing maintainable code. My primary tools for doing these things are Python, SQL, Jupyter notebooks, and when required C++. I am proficient with the Python packages Pandas, Numpy, and Pytorch.
 
-In my free time I enjoy training deep learning models and I'm passionate about angling. 
+In my free time I enjoy training deep learning models, and I'm passionate about angling. 

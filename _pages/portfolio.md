@@ -5,12 +5,14 @@ author_profile: true
 ---
 
 ## Data Science
-### doihaveatumor.com
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-### Exploring OSRS API
-blurb
-### Exploring en wiki bias
-blurb
+### [:link: doihaveatumor.com](https://github.com/Nadr0jj/DATA515-Brain-Scan-Classification)
+The Brain Scan Classifier is a machine learning project that classifies 2D brain scan images as tumorous or not. Our website allows users to upload their own (.jpg, jpeg, or .png) photos into the model, and get a prediction result. Note that the website is not currently deployed, but all of the code is available on github.
+
+### [:link: Deriving insights w/ real-time pricing data](https://github.com/Nadr0jj/osrs_api_data_exploration/blob/main/osrs_api_data_exploration.ipynb)
+A Jupyter notebook in which I explore what can be done with real-time pricing data for the MMO game Runescape made available by WeirdGloop LLC via an API.
+
+### [:link: Exploring bias on the English Wikipedia](https://github.com/Nadr0jj/English-wikipedia-bias)
+A Jupyter notebook in which I explore the potential for bias present in English Wikipedia articles using machine learning to determine article quality.
 
 ## Software
 ### [:link: disam](https://github.com/Nadr0jj/disam)

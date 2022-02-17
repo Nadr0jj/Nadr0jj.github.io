@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "update3"
+  bio              : "I am a Data Scientist and software developer based in the Seattle area. I am passionate about using statistical approaches to drive insight and fairness in ML contexts. "
   location         : "Seattle"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : jjfields@uw.edu
   researchgate     :
   uri              :
   bitbucket        :
